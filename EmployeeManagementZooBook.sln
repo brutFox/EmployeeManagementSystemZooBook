@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementZooBookApi", "EmployeeManagementZooBookApi\EmployeeManagementZooBookApi.csproj", "{4349A13D-219C-4EF7-958E-06560E67691D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementService", "EmployeeManagementService\EmployeeManagementService.csproj", "{33874ACE-FD53-4332-A28A-E22267822A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementZooBookData", "EmployeeManagementZooBookData\EmployeeManagementZooBookData.csproj", "{C0F94EF6-9538-4CC2-843C-36EB90055A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementZooBookFronEnd", "EmployeeManagementZooBookFronEnd\EmployeeManagementZooBookFronEnd.csproj", "{EF82E712-2879-4D47-9D7F-0F7F28D71553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementZooBookTests", "EmployeeManagementZooBookTests\EmployeeManagementZooBookTests.csproj", "{FC6A7CE5-EA12-4374-9DA4-FDD990643FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4349A13D-219C-4EF7-958E-06560E67691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4349A13D-219C-4EF7-958E-06560E67691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4349A13D-219C-4EF7-958E-06560E67691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4349A13D-219C-4EF7-958E-06560E67691D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33874ACE-FD53-4332-A28A-E22267822A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33874ACE-FD53-4332-A28A-E22267822A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33874ACE-FD53-4332-A28A-E22267822A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33874ACE-FD53-4332-A28A-E22267822A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F94EF6-9538-4CC2-843C-36EB90055A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F94EF6-9538-4CC2-843C-36EB90055A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F94EF6-9538-4CC2-843C-36EB90055A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F94EF6-9538-4CC2-843C-36EB90055A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF82E712-2879-4D47-9D7F-0F7F28D71553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF82E712-2879-4D47-9D7F-0F7F28D71553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF82E712-2879-4D47-9D7F-0F7F28D71553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF82E712-2879-4D47-9D7F-0F7F28D71553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6A7CE5-EA12-4374-9DA4-FDD990643FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A7CE5-EA12-4374-9DA4-FDD990643FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A7CE5-EA12-4374-9DA4-FDD990643FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A7CE5-EA12-4374-9DA4-FDD990643FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCED6BE9-795D-418B-ABFE-1E31CE6411FC}
+	EndGlobalSection
+EndGlobal
